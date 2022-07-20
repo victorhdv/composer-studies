@@ -3,7 +3,7 @@
         'name' => 'victorhdv/buscador-cursos',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'a5d4eccde2a97a7fb2d9c024badc6db1f11427ea',
+        'reference' => '331314de18fc257335b348ff914f09d6ace7d92e',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -604,7 +604,7 @@
         'victorhdv/buscador-cursos' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'a5d4eccde2a97a7fb2d9c024badc6db1f11427ea',
+            'reference' => '331314de18fc257335b348ff914f09d6ace7d92e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
