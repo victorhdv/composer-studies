@@ -1,7 +1,6 @@
 <?php
 require 'vendor/autoload.php';
 
-
 use GuzzleHttp\Client;
 use Alura\BuscadorDeCursos\Buscador;
 use Symfony\Component\DomCrawler\Crawler;
