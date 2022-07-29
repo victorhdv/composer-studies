@@ -4,7 +4,7 @@ Projeto de um buscador de cursos no site da Alura, estudos sobre Composer. Ativi
 
 :pencil2: tópicos abordados:
 
-•Manipulação de dependencias;
+•Manipulação de dependências;
 
 •criação de scripts;
 
