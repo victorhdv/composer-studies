@@ -8,4 +8,4 @@ Projeto de um buscador de cursos no site da Alura, estudos sobre Composer. Ativi
 
 •criação de scripts;
 
-•POO.
+•Utilização de bibliotecas.
